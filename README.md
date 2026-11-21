@@ -21,7 +21,7 @@ python -m pip install -r requirements.txt
 python main.py
 ```
 
-`main.py` starts the three TCP emulators, takes six measurements from each at 2 Hz, prints a summary, and saves detailed JSON reports in `results/`.
+`main.py` starts the three TCP emulators, takes seven measurements from each at 2 Hz, prints a summary, and saves detailed JSON reports in `results/`.
 
 Example summary (random values change on every run):
 
@@ -70,7 +70,7 @@ The framework raises a configuration error if the count cannot fit inside the sa
 | `config/config.yaml` | Ports, commands, and sampling settings |
 | `src/testing/test_framework.py` | Sampling, statistics, error handling, and JSON saving/loading |
 | `examples/show_history.py` | Displays previous results for comparison |
-| `tests/test_framework.py` | Six automated tests |
+| `tests/test_framework.py` | seven automated tests |
 | `sample_results/` | Real example JSON reports from a completed run |
 | `DESIGN.md` | Design decisions, fixes, and limitations |
 
