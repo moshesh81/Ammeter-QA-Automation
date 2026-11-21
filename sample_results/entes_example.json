@@ -1,0 +1,52 @@
+{
+  "run_id": "b8a72ab4-523f-44a4-88a9-ebcb2bf2bf28",
+  "ammeter": "entes",
+  "status": "passed",
+  "started_at": "2026-11-21T13:22:17.820769+00:00",
+  "finished_at": "2026-11-21T13:22:20.321597+00:00",
+  "settings": {
+    "measurements_count": 6,
+    "total_duration_seconds": 3.0,
+    "sampling_frequency_hz": 2.0
+  },
+  "measurements": [
+    {
+      "sample": 1,
+      "elapsed_seconds": 0.0,
+      "current_amps": 16.20915625484565
+    },
+    {
+      "sample": 2,
+      "elapsed_seconds": 0.5,
+      "current_amps": 55.754301353464534
+    },
+    {
+      "sample": 3,
+      "elapsed_seconds": 1.0,
+      "current_amps": 91.00487039247396
+    },
+    {
+      "sample": 4,
+      "elapsed_seconds": 1.5,
+      "current_amps": 85.69243064580358
+    },
+    {
+      "sample": 5,
+      "elapsed_seconds": 2.0,
+      "current_amps": 119.69537653784408
+    },
+    {
+      "sample": 6,
+      "elapsed_seconds": 2.5,
+      "current_amps": 154.42180653503792
+    }
+  ],
+  "errors": [],
+  "statistics": {
+    "mean": 87.12965695324496,
+    "median": 88.34865051913877,
+    "std_dev": 48.20782663506799,
+    "minimum": 16.20915625484565,
+    "maximum": 154.42180653503792
+  }
+}

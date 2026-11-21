@@ -1,0 +1,52 @@
+{
+  "run_id": "e36ebf7a-690a-46c9-9fb2-c058069c3cf9",
+  "ammeter": "circutor",
+  "status": "passed",
+  "started_at": "2026-11-21T13:22:20.321961+00:00",
+  "finished_at": "2026-11-21T13:22:22.822892+00:00",
+  "settings": {
+    "measurements_count": 6,
+    "total_duration_seconds": 3.0,
+    "sampling_frequency_hz": 2.0
+  },
+  "measurements": [
+    {
+      "sample": 1,
+      "elapsed_seconds": 0.0,
+      "current_amps": 0.030725151350882766
+    },
+    {
+      "sample": 2,
+      "elapsed_seconds": 0.5,
+      "current_amps": 0.039366937520482516
+    },
+    {
+      "sample": 3,
+      "elapsed_seconds": 1.0,
+      "current_amps": 0.030513197515159747
+    },
+    {
+      "sample": 4,
+      "elapsed_seconds": 1.5,
+      "current_amps": 0.04955405268555888
+    },
+    {
+      "sample": 5,
+      "elapsed_seconds": 2.0,
+      "current_amps": 0.016560937370249246
+    },
+    {
+      "sample": 6,
+      "elapsed_seconds": 2.5,
+      "current_amps": 0.008168798165813814
+    }
+  ],
+  "errors": [],
+  "statistics": {
+    "mean": 0.029148179101357828,
+    "median": 0.030619174433021257,
+    "std_dev": 0.014991636974958039,
+    "minimum": 0.008168798165813814,
+    "maximum": 0.04955405268555888
+  }
+}
