@@ -35,7 +35,7 @@ Every run is written to a separate JSON file with a UUID. It can be loaded with 
 
 ## Testing
 
-The six pytest tests cover:
+The seven pytest tests cover:
 
 1. Correct statistical calculations, JSON writing and history loading.
 2. Rejection of unknown ammeter types.
